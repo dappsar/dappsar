@@ -34,7 +34,7 @@
 
 I'm Diego, a software architect.
 
-In [this linktr.ee](https://linktr.ee/dbaranowski) you have a summary of links such as my Summary/CV, linkedin and latest contributions in different places.
+In [this linktree](https://linktr.ee/dbaranowski) you have a summary of links such as my Summary/CV, linkedin and latest contributions in different places.
 
 ## Skills
 
@@ -43,7 +43,7 @@ In [this linktr.ee](https://linktr.ee/dbaranowski) you have a summary of links s
 - web3: Solidity, Truffle, Hardhat
 - devOps: docker, nginx, kubernetes, ci/cd, aws, gcp, azure
 - database: mongo, firestore, sql server, oracle, mysql, sqlite
-- Architectures: SPA, WPA, serverless, micro-services, clean
+- architectures: SPA, WPA, serverless, micro-services, clean
 
 ## Latest
 
