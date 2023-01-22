@@ -47,7 +47,7 @@ In [this linktr.ee](https://linktr.ee/dbaranowski) you have a summary of links s
 
 ## Latest
 
-- Learning about web3 development
+- Learning about web3 development ([learning path](https://longhaired-slipper-994.notion.site/Ethereum-Master-roadmap-63bc8cdf21ac480790bc584b233910fc) that I'am following)
 - Developing in nextJs with javascript this site: [argentinadiving.com](https://argentinadiving.com)
 - Working as a Software Architect in differents projects for a global company
 
