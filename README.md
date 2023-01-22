@@ -57,6 +57,79 @@ In [this linktree](https://linktr.ee/dbaranowski) you have a summary of links su
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 44 Contributions in the Year 2023
+ > 
+> 📦 99.9 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 99 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+🌆 Daytime    38 commits     █████████░░░░░░░░░░░░░░░░   38.38% 
+🌃 Evening    42 commits     ██████████░░░░░░░░░░░░░░░   42.42% 
+🌙 Night      8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.08%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.07% 
+Tuesday      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.02% 
+Wednesday    27 commits     ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+Thursday     19 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.19% 
+Friday       13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
+Saturday     24 commits     ██████░░░░░░░░░░░░░░░░░░░   24.24% 
+Sunday       7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.07%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Argentina/Buenos_Aires
+
+💬 Programming Languages: 
+Markdown                 55 mins             ████████████████░░░░░░░░░   66.37% 
+YAML                     27 mins             ████████░░░░░░░░░░░░░░░░░   33.53% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+
+🔥 Editors: 
+VS Code                  1 hr 22 mins        █████████████████████████   100.0%
+
+💻 Operating System: 
+Linux                    1 hr 22 mins        █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               15 repos            █████████████░░░░░░░░░░░░   51.72% 
+Solidity                 4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
+
+```
+
+
+
+ Last Updated on 22/01/2023 14:37:47 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
