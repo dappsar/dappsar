@@ -57,9 +57,9 @@ In [this linktree](https://linktr.ee/dbaranowski) you have a summary of links su
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -67,7 +67,7 @@ In [this linktree](https://linktr.ee/dbaranowski) you have a summary of links su
 
 > 🏆 171 Contributions in the Year 2023
  > 
-> 📦 126.7 kB Used in GitHub's Storage 
+> 📦 127.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -104,17 +104,17 @@ Sunday          50 commits       ██████░░░░░░░░░�
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Other                    6 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   34.26 % 
-Markdown                 4 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-TypeScript               1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Python                   1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-JSON                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Other                    4 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.46 % 
+Markdown                 3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   27.07 % 
+JavaScript               1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+TypeScript               1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Python                   55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 36 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 12 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    17 hrs 36 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 12 mins      █████████████████████████   100.00 % 
 
 ```
 
@@ -131,7 +131,7 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/02/2023 00:34:06 UTC
+ Last Updated on 09/02/2023 00:33:19 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
