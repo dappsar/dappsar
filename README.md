@@ -57,7 +57,7 @@ In [this linktree](https://linktr.ee/dbaranowski) you have a summary of links su
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -104,17 +104,17 @@ Sunday          50 commits       █████░░░░░░░░░░�
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Markdown                 2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Other                    2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-JavaScript               2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Java                     2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-TypeScript               1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Java                     5 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   32.49 % 
+Other                    2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+JavaScript               2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Markdown                 1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+TypeScript               1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 32 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 38 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    14 hrs 32 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 38 mins      █████████████████████████   100.00 % 
 
 ```
 
@@ -131,7 +131,7 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 11/02/2023 00:29:53 UTC
+ Last Updated on 12/02/2023 00:38:33 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
