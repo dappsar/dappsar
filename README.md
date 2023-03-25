@@ -59,7 +59,7 @@ In [this linktree](https://linktr.ee/dbaranowski) you have a summary of links su
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
@@ -104,14 +104,14 @@ Sunday                   106 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Markdown                 4 hrs 25 mins       ████████████████░░░░░░░░░   65.71 % 
-Other                    2 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   34.29 % 
+Other                    2 hrs 39 mins       ███████████████░░░░░░░░░░   58.11 % 
+Markdown                 1 hr 54 mins        ██████████░░░░░░░░░░░░░░░   41.89 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 44 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 34 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 44 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -127,7 +127,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/03/2023 00:29:56 UTC
+ Last Updated on 25/03/2023 00:28:56 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
