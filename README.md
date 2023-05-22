@@ -40,7 +40,7 @@ In [this linktree](https://linktr.ee/dbaranowski) you have a summary of links su
 
 ## Skills
 
-- frontend: ReactJs, NextJs, javascrupt, typescript 
+- frontend: ReactJs, NextJs, javascript, typescript 
 - backend: Java, C#, Python. nodeJs, express, firebase
 - web3: Solidity, Truffle, Hardhat
 - devOps: docker, nginx, kubernetes, ci/cd, aws, gcp, azure
