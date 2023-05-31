@@ -59,7 +59,7 @@ In [this linktree](https://linktr.ee/dbaranowski) you have a summary of links su
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -104,17 +104,17 @@ Sunday                   109 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               16 hrs 18 mins      █████████████████░░░░░░░░   69.51 % 
-SQL                      3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Markdown                 1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+TypeScript               13 hrs 7 mins       ████████████████░░░░░░░░░   64.71 % 
+SQL                      3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Markdown                 1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 28 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 16 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  23 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -130,7 +130,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2023 00:32:07 UTC
+ Last Updated on 31/05/2023 00:33:30 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
