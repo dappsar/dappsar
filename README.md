@@ -59,9 +59,9 @@ In [this linktree](https://linktr.ee/dbaranowski) you have a summary of links su
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
 
@@ -104,17 +104,17 @@ Sunday                   109 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               15 hrs 58 mins      █████████████████████░░░░   85.59 % 
-Bash                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-CSV                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+TypeScript               17 hrs 30 mins      █████████████████████░░░░   83.52 % 
+Bash                     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+SQL                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+CSV                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 39 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 57 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  18 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -130,7 +130,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2023 00:33:25 UTC
+ Last Updated on 14/06/2023 00:32:09 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
