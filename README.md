@@ -59,7 +59,7 @@ In [this linktree](https://linktr.ee/dbaranowski) you have a summary of links su
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-263%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -67,7 +67,7 @@ In [this linktree](https://linktr.ee/dbaranowski) you have a summary of links su
 
 **🐱 My GitHub Data** 
 
-> 📦 251.4 kB Used in GitHub's Storage 
+> 📦 251.5 kB Used in GitHub's Storage 
  > 
 > 🏆 296 Contributions in the Year 2023
  > 
@@ -104,17 +104,17 @@ Sunday                   109 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               6 hrs 43 mins       █████████████░░░░░░░░░░░░   51.13 % 
-SQL                      5 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   39.40 % 
-Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+TypeScript               4 hrs 30 mins       ████████████░░░░░░░░░░░░░   46.58 % 
+SQL                      4 hrs 25 mins       ███████████░░░░░░░░░░░░░░   45.75 % 
+JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Git                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 8 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  13 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -130,7 +130,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/06/2023 00:36:28 UTC
+ Last Updated on 30/06/2023 00:35:26 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
