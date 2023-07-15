@@ -59,7 +59,16 @@ In [this linktree](https://linktr.ee/dbaranowski) you have a summary of links su
 
 ## Trophies
 
+### Github Contribution
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=dappsar)](https://github.com/dappsar/github-profile-trophy)
+
+### Stackoverflow contribution
+
+[![user:4421078's ranking for javascript](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/javascript/4421078?theme=default)](https://stackoverflow-readme-profile.vercel.app/tags-league/javascript/users/4421078)
+
+[![user:4421078's ranking for c%23](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/c%23/4421078?theme=default)](https://stackoverflow-readme-profile.vercel.app/tags-league/c%23/users/4421078)
+
 
 ---
 
