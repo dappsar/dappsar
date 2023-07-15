@@ -57,11 +57,14 @@ In [this linktree](https://linktr.ee/dbaranowski) you have a summary of links su
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
----
+## Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dappsar)](https://github.com/dappsar/github-profile-trophy)
 
 ---
+
+## Stats
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%2034%20mins-blue)
 
