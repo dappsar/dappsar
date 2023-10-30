@@ -75,7 +75,7 @@ In [this linktree](https://linktr.ee/dbaranowski) you have a summary of links su
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-563%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-564%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -136,17 +136,17 @@ Windows                  1 hr 28 mins        ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               20 repos            █████████░░░░░░░░░░░░░░░░   37.74 % 
-TypeScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-C#                       4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+JavaScript               22 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
+TypeScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+C#                       4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 ```
 
 
 
 
- Last Updated on 29/10/2023 00:29:39 UTC
+ Last Updated on 30/10/2023 00:28:24 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
