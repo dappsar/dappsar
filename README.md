@@ -49,9 +49,11 @@ In [this linktree](https://linktr.ee/dbaranowski) you have a summary of links su
 
 ## Latest
 
-- Learning about web3 development ([learning path](https://longhaired-slipper-994.notion.site/Ethereum-Master-roadmap-63bc8cdf21ac480790bc584b233910fc) that I am following)
-- Developing in nextJs with javascript this site: [argentinadiving.com](https://argentinadiving.com)
+- Learning about web3 development
 - Working as a Software Architect in differents projects for a global company
+- Developing in nextJs with javascript this site: [argentinadiving.com](https://argentinadiving.com)
+- Architect and developer (react, node, solidity) of GIGA's **gigacounts** project, part of [UNICEF's connect project](https://projectconnect.unicef.org/about). Source code: [Gigacounts-Blockchain](https://github.com/unicef/giga_gigacounts_blockchain), [Gigacounts-frontend](https://github.com/unicef/giga_gigacounts_frontend), [Gigacounts-backend](https://github.com/unicef/giga_gigacounts_backend)
+- Developer in Project [NoF Town](https://nof.town/)
 
 
 
