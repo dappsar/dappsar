@@ -79,7 +79,7 @@ In [this linktree](https://linktr.ee/dbaranowski) you have a summary of links su
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-565%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.6%20million%20lines%20of%20code-blue)
 
@@ -87,32 +87,32 @@ In [this linktree](https://linktr.ee/dbaranowski) you have a summary of links su
 
 > 📦 259.3 kB Used in GitHub's Storage 
  > 
-> 🏆 561 Contributions in the Year 2023
+> 🏆 562 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 121 Public Repositories 
+> 📜 120 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-🌆 Daytime                282 commits         ████████░░░░░░░░░░░░░░░░░   33.85 % 
-🌃 Evening                305 commits         █████████░░░░░░░░░░░░░░░░   36.61 % 
-🌙 Night                  178 commits         █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
+🌞 Morning                68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+🌆 Daytime                287 commits         █████████░░░░░░░░░░░░░░░░   34.17 % 
+🌃 Evening                307 commits         █████████░░░░░░░░░░░░░░░░   36.55 % 
+🌙 Night                  178 commits         █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   133 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Tuesday                  59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-Wednesday                123 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Thursday                 155 commits         █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-Friday                   131 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Saturday                 119 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Sunday                   113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Monday                   133 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Tuesday                  59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Wednesday                123 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Thursday                 155 commits         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Friday                   133 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Saturday                 124 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Sunday                   113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
 ```
 
 
@@ -122,15 +122,13 @@ Sunday                   113 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Text                     8 mins              ███████████████████████░░   91.85 % 
-Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -146,7 +144,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/11/2023 00:27:39 UTC
+ Last Updated on 12/11/2023 00:30:44 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
