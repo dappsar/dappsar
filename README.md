@@ -77,17 +77,15 @@ In [this linktree](https://linktr.ee/dbaranowski) you have a summary of links su
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-665%20hrs%2058%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 268.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,438 Contributions in the Year 2023
+> 🏆 1,447 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -95,47 +93,6 @@ In [this linktree](https://linktr.ee/dbaranowski) you have a summary of links su
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-🌆 Daytime                858 commits         █████████░░░░░░░░░░░░░░░░   34.74 % 
-🌃 Evening                906 commits         █████████░░░░░░░░░░░░░░░░   36.68 % 
-🌙 Night                  432 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   345 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Tuesday                  300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Wednesday                374 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Thursday                 342 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Friday                   445 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-Saturday                 315 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Sunday                   349 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Argentina/Buenos_Aires
-
-💬 Programming Languages: 
-JavaScript               17 hrs 28 mins      ██████████░░░░░░░░░░░░░░░   40.02 % 
-Markdown                 10 hrs 34 mins      ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
-SCSS                     10 hrs 9 mins       ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-TypeScript               1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-JSON                     1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-
-🔥 Editors: 
-VS Code                  43 hrs 39 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    43 hrs 37 mins      █████████████████████████   99.92 % 
-Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -149,7 +106,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2023 00:31:06 UTC
+ Last Updated on 07/12/2023 00:29:48 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
