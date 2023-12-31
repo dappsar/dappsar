@@ -77,9 +77,9 @@ In [this linktree](https://linktr.ee/dbaranowski) you have a summary of links su
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-817%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-818%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.3%20million%20lines%20of%20code-blue)
 
@@ -122,18 +122,17 @@ Sunday                   421 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-JavaScript               21 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   39.84 % 
-Markdown                 15 hrs 48 mins      ███████░░░░░░░░░░░░░░░░░░   28.67 % 
-Solidity                 7 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-TypeScript               3 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-Bash                     1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+JavaScript               19 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   34.38 % 
+Markdown                 15 hrs 37 mins      ███████░░░░░░░░░░░░░░░░░░   27.35 % 
+Solidity                 10 hrs 36 mins      █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+TypeScript               5 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+SCSS                     2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 
 🔥 Editors: 
-VS Code                  55 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  57 hrs 10 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    54 hrs 44 mins      █████████████████████████   99.33 % 
-Windows                  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Linux                    57 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -149,7 +148,7 @@ C#                       4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 30/12/2023 00:28:40 UTC
+ Last Updated on 31/12/2023 00:32:53 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
