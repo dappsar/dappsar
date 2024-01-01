@@ -77,7 +77,7 @@ In [this linktree](https://linktr.ee/dbaranowski) you have a summary of links su
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-818%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-820%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -87,7 +87,7 @@ In [this linktree](https://linktr.ee/dbaranowski) you have a summary of links su
 
 > 📦 268.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,725 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -122,17 +122,17 @@ Sunday                   421 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-JavaScript               19 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   34.38 % 
-Markdown                 15 hrs 37 mins      ███████░░░░░░░░░░░░░░░░░░   27.35 % 
-Solidity                 10 hrs 36 mins      █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-TypeScript               5 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-SCSS                     2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+JavaScript               18 hrs 41 mins      █████████░░░░░░░░░░░░░░░░   36.08 % 
+Markdown                 13 hrs 13 mins      ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
+Solidity                 9 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+TypeScript               4 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+SCSS                     2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
 
 🔥 Editors: 
-VS Code                  57 hrs 10 mins      █████████████████████████   100.00 % 
+VS Code                  51 hrs 48 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    57 hrs 10 mins      █████████████████████████   100.00 % 
+Linux                    51 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -148,7 +148,7 @@ C#                       4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2023 00:32:53 UTC
+ Last Updated on 01/01/2024 00:33:33 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
