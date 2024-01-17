@@ -77,7 +77,7 @@ In [this linktree](https://linktr.ee/dbaranowski) you have a summary of links su
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-890%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-895%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -87,7 +87,7 @@ In [this linktree](https://linktr.ee/dbaranowski) you have a summary of links su
 
 > 📦 268.3 kB Used in GitHub's Storage 
  > 
-> 🏆 47 Contributions in the Year 2024
+> 🏆 48 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -122,18 +122,18 @@ Sunday                   329 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               14 hrs 32 mins      ██████████████░░░░░░░░░░░   56.31 % 
-Markdown                 5 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-Python                   1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Other                    1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-Docker                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+TypeScript               15 hrs 3 mins       ██████████████░░░░░░░░░░░   56.02 % 
+Markdown                 5 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Other                    2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Python                   1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Docker                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 49 mins      █████████████████████████   100.00 % 
+VS Code                  26 hrs 52 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    23 hrs 26 mins      ███████████████████████░░   90.80 % 
-Windows                  2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Linux                    24 hrs 30 mins      ███████████████████████░░   91.16 % 
+Windows                  2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -149,7 +149,7 @@ C#                       4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/01/2024 00:30:59 UTC
+ Last Updated on 17/01/2024 00:30:41 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
