@@ -79,13 +79,15 @@ In [this linktree](https://linktr.ee/dbaranowski) you have a summary of links su
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C133%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 268.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 520 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -120,16 +122,16 @@ Sunday                   514 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Bash                     8 mins              ████████████████░░░░░░░░░   63.87 % 
-Other                    2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-JavaScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Bash                     8 mins              ████████████████░░░░░░░░░   64.60 % 
+Other                    2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+JavaScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    13 mins             █████████████████████████   100.00 % 
+Linux                    12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -145,7 +147,7 @@ C#                       4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/04/2024 00:29:42 UTC
+ Last Updated on 28/04/2024 00:32:58 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
