@@ -53,7 +53,7 @@ In [this linktree](https://linktr.ee/dbaranowski) you have a summary of links su
 - Working as a Software Architect in differents projects for a global company
 - Developing in nextJs with javascript this site: [argentinadiving.com](https://argentinadiving.com)
 - Architect and developer (react, node, solidity) of GIGA's **gigacounts** project, part of [UNICEF's connect project](https://projectconnect.unicef.org/about). Source code: [Gigacounts-Blockchain](https://github.com/unicef/giga_gigacounts_blockchain), [Gigacounts-frontend](https://github.com/unicef/giga_gigacounts_frontend), [Gigacounts-backend](https://github.com/unicef/giga_gigacounts_backend)
-- Developer in Project [NoF Town](https://nof.town/)
+- Developer in Project [NoF Town](https://nof.town/) (NFT Game)
 
 
 
