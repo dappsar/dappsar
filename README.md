@@ -36,7 +36,7 @@
 
 I'm Diego, a software architect.
 
-In [this linktree](https://linktr.ee/dbaranowski) you have a summary of links such as my Summary/CV, linkedin and latest contributions in different places.
+In [this linktree](https://linktr.ee/dappsar) you have a summary of links such as my Summary/CV, linkedin and latest contributions in different places.
 
 ## Skills
 
