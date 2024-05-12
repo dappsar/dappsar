@@ -77,17 +77,15 @@ In [this linktree](https://linktr.ee/dappsar) you have a summary of links such a
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C145%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C158%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 268.4 kB Used in GitHub's Storage 
- > 
-> 🏆 596 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -122,18 +120,18 @@ Sunday                   489 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Bash                     14 hrs 44 mins      ████████████████░░░░░░░░░   62.02 % 
-JavaScript               3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Text                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Markdown                 1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Python                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Bash                     14 hrs 55 mins      ████████████████████░░░░░   78.34 % 
+Text                     1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Python                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 46 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 2 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    22 hrs 50 mins      ████████████████████████░   96.07 % 
-Windows                  56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Linux                    18 hrs 6 mins       ████████████████████████░   95.10 % 
+Windows                  56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -149,7 +147,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2024 00:30:37 UTC
+ Last Updated on 12/05/2024 00:33:48 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
