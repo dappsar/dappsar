@@ -87,8 +87,6 @@ In [this linktree](https://linktr.ee/dappsar) you have a summary of links such a
 
 > 📦 268.4 kB Used in GitHub's Storage 
  > 
-> 🏆 598 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 121 Public Repositories 
@@ -122,16 +120,13 @@ Sunday                   490 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Bash                     19 mins             █████████████████████░░░░   84.08 % 
-Text                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+TypeScript               0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -147,7 +142,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2024 00:30:51 UTC
+ Last Updated on 19/05/2024 00:33:41 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
