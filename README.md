@@ -77,7 +77,7 @@ In [this linktree](https://linktr.ee/dappsar) you have a summary of links such a
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C159%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C160%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -86,8 +86,6 @@ In [this linktree](https://linktr.ee/dappsar) you have a summary of links such a
 **🐱 My GitHub Data** 
 
 > 📦 268.4 kB Used in GitHub's Storage 
- > 
-> 🏆 605 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -148,7 +146,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2024 00:30:43 UTC
+ Last Updated on 23/05/2024 00:30:55 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
