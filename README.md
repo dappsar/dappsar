@@ -87,6 +87,8 @@ In [this linktree](https://linktr.ee/dappsar) you have a summary of links such a
 
 > 📦 268.4 kB Used in GitHub's Storage 
  > 
+> 🏆 605 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 121 Public Repositories 
@@ -146,7 +148,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2024 00:30:55 UTC
+ Last Updated on 24/05/2024 00:31:21 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
