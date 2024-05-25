@@ -79,7 +79,7 @@ In [this linktree](https://linktr.ee/dappsar) you have a summary of links such a
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C160%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.3%20million%20lines%20of%20code-blue)
 
@@ -148,7 +148,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2024 00:31:21 UTC
+ Last Updated on 25/05/2024 00:30:15 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
