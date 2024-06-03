@@ -79,15 +79,13 @@ In [this linktree](https://linktr.ee/dappsar) you have a summary of links such a
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C167%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 268.4 kB Used in GitHub's Storage 
- > 
-> 🏆 635 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -122,17 +120,17 @@ Sunday                   617 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               3 hrs 15 mins       ███████████░░░░░░░░░░░░░░   44.53 % 
-Markdown                 2 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   34.63 % 
-Python                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-CSV                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+TypeScript               1 hr 57 mins        ███████████░░░░░░░░░░░░░░   44.00 % 
+Markdown                 1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+Python                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 19 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 19 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -148,7 +146,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/06/2024 00:34:14 UTC
+ Last Updated on 03/06/2024 00:32:48 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
