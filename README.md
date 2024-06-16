@@ -77,9 +77,7 @@ In [this linktree](https://linktr.ee/dappsar) you have a summary of links such a
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C190%20hrs%2018%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.5%20million%20lines%20of%20code-blue)
 
@@ -122,18 +120,18 @@ Sunday                   763 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               11 hrs 13 mins      ███████████████░░░░░░░░░░   60.73 % 
-Markdown                 4 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
-JSON                     1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Bash                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Other                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+TypeScript               13 hrs 13 mins      ██████████████░░░░░░░░░░░   54.52 % 
+Markdown                 5 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+JSON                     1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+HTML                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Bash                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 29 mins      █████████████████████████   100.00 % 
+VS Code                  24 hrs 15 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    18 hrs 2 mins       ████████████████████████░   97.61 % 
-Windows                  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Linux                    18 hrs 2 mins       ███████████████████░░░░░░   74.40 % 
+Windows                  6 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -149,7 +147,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2024 00:33:10 UTC
+ Last Updated on 16/06/2024 00:35:44 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
