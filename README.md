@@ -77,7 +77,7 @@ In [this linktree](https://linktr.ee/dappsar) you have a summary of links such a
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C359%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C365%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -86,8 +86,6 @@ In [this linktree](https://linktr.ee/dappsar) you have a summary of links such a
 **🐱 My GitHub Data** 
 
 > 📦 270.3 kB Used in GitHub's Storage 
- > 
-> 🏆 965 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -122,17 +120,17 @@ Sunday                   597 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               22 hrs 19 mins      ██████████████░░░░░░░░░░░   55.51 % 
-Markdown                 6 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-JavaScript               3 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-Text                     2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-Bash                     2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+TypeScript               22 hrs 11 mins      █████████████░░░░░░░░░░░░   53.38 % 
+Markdown                 5 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Text                     4 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+JavaScript               3 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Bash                     2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
 
 🔥 Editors: 
-VS Code                  40 hrs 12 mins      █████████████████████████   100.00 % 
+VS Code                  41 hrs 33 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  40 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  41 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -148,7 +146,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/07/2024 00:37:22 UTC
+ Last Updated on 15/07/2024 00:35:17 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
