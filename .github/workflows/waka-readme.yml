@@ -21,13 +21,10 @@ jobs:
           ### content
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # Section name in the README
-          BLOCKS: 'time, editors, languages, os, projects' # Specify which blocks to show, separated by commas
           TIME_RANGE: all_time # Time range for metrics (e.g., last_7_days, last_30_days, etc.)
-          LANG_COUNT: 10 # Number of languages to show
+          LANG_COUNT: 15 # Number of languages to show
           SHOW_TIME: true # Show time spent on each item
           SHOW_TOTAL: true # Show total time
-          SHOW_MASKED_TIME: false # Mask the time
-          STOP_AT_OTHER: true # Stop the chart at 'Other'
           IGNORED_LANGUAGES: YAML JSON TOML # Languages to ignore in the report
           SHOW_GRAPH: true # Show graph of time spent (bar graph)
           SHOW_EDITORS: true # Show which editors were used
