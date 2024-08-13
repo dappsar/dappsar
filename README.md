@@ -83,10 +83,10 @@ From: 21 January 2023 - To: 13 August 2024
 
 Total Time: 1,437 hrs 1 min
 
-TypeScript                 678 hrs 52 mins >>>>>>>>>>>--------------   44.71 %
-Markdown                   216 hrs 6 mins  >>>>---------------------   14.23 %
-JavaScript                 174 hrs 48 mins >>>----------------------   11.51 %
-Other                      81 hrs 18 mins  >------------------------   05.36 %
+TypeScript                 678 hrs 52 mins sssssssssssdttttttttttttt   44.71 %
+Markdown                   216 hrs 6 mins  sssgttttttttttttttttttttt   14.23 %
+JavaScript                 174 hrs 48 mins ssotttttttttttttttttttttt   11.51 %
+Other                      81 hrs 18 mins  s,ttttttttttttttttttttttt   05.36 %
 ```
 
 <!--END_SECTION:waka-->
