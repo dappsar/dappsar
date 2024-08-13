@@ -78,6 +78,14 @@ In [this linktree](https://linktr.ee/dappsar) you have a summary of links such a
 
 <!--START_SECTION:waka-->
 
+```txt
+TypeScript   18 hrs 15 mins  █████████████████░░░░░░░░   68.42 %
+Markdown     3 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
+JSON         1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+JavaScript   1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Docker       1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+```
+
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
