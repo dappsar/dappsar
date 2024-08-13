@@ -79,11 +79,14 @@ In [this linktree](https://linktr.ee/dappsar) you have a summary of links such a
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   18 hrs 15 mins  █████████████████░░░░░░░░   68.42 %
-Markdown     3 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
-JSON         1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-JavaScript   1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-Docker       1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+From: 21 January 2023 - To: 13 August 2024
+
+Total Time: 1,437 hrs 1 min
+
+TypeScript                 678 hrs 52 mins >>>>>>>>>>>--------------   44.71 %
+Markdown                   216 hrs 6 mins  >>>>---------------------   14.23 %
+JavaScript                 174 hrs 48 mins >>>----------------------   11.51 %
+Other                      81 hrs 18 mins  >------------------------   05.36 %
 ```
 
 <!--END_SECTION:waka-->
