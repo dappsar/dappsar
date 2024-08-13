@@ -1,10 +1,10 @@
 name: waka Readme (old w-error) # https://github.com/marketplace/actions/profile-readme-development-stats
 
-on:
-  workflow_dispatch:
-  schedule:
-    # Runs at 00:00AM UTC
-    - cron: '30 18 * * *'
+#on:
+  # workflow_dispatch:
+  # schedule:
+  #  # Runs at 00:00AM UTC
+  #  - cron: '30 18 * * *'
 
 jobs:
   update-readme: # https://wakatime.com/projects
