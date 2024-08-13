@@ -1,4 +1,4 @@
-name: waka Readme # https://github.com/marketplace/actions/profile-readme-development-stats
+name: waka Readme (old w-error) # https://github.com/marketplace/actions/profile-readme-development-stats
 
 on:
   workflow_dispatch:
