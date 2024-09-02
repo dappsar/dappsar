@@ -79,22 +79,22 @@ In [this linktree](https://linktr.ee/dappsar) you have a summary of links such a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2023 - To: 30 August 2024
+From: 21 January 2023 - To: 31 August 2024
 
-Total Time: 1,455 hrs 28 mins
+Total Time: 1,457 hrs 35 mins
 
-TypeScript                 688 hrs 38 mins ███████████▒░░░░░░░░░░░░░   44.81 %
-Markdown                   217 hrs 10 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
-JavaScript                 175 hrs 41 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
-Other                      81 hrs 27 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
-SQL                        77 hrs 39 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
-Bash                       70 hrs 21 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-Text                       42 hrs 57 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+TypeScript                 688 hrs 46 mins ███████████▒░░░░░░░░░░░░░   44.74 %
+Markdown                   218 hrs 55 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
+JavaScript                 175 hrs 41 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
+Other                      81 hrs 52 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+SQL                        77 hrs 39 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+Bash                       70 hrs 21 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+Text                       43 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 JSON                       39 hrs 52 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Solidity                   33 hrs 54 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+Solidity                   33 hrs 54 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
 Python                     26 hrs 39 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 SCSS                       21 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-YAML                       14 hrs 50 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+YAML                       14 hrs 50 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 Java                       13 hrs 2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 Docker                     9 hrs 53 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 HTML                       5 hrs 31 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
