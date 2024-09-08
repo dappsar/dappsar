@@ -79,25 +79,25 @@ In [this linktree](https://linktr.ee/dappsar) you have a summary of links such a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2023 - To: 06 September 2024
+From: 21 January 2023 - To: 07 September 2024
 
-Total Time: 1,465 hrs 56 mins
+Total Time: 1,466 hrs 23 mins
 
-TypeScript                 690 hrs 32 mins ███████████░░░░░░░░░░░░░░   44.61 %
+TypeScript                 690 hrs 32 mins ███████████░░░░░░░░░░░░░░   44.59 %
 Markdown                   218 hrs 56 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
-JavaScript                 175 hrs 43 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
-Other                      82 hrs 10 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-SQL                        77 hrs 39 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+JavaScript                 175 hrs 53 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
+Other                      82 hrs 22 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+SQL                        77 hrs 39 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
 Bash                       70 hrs 21 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-Text                       47 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-JSON                       40 hrs 1 min    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Text                       47 hrs 25 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+JSON                       40 hrs 1 min    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
 Solidity                   33 hrs 56 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-Python                     26 hrs 39 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Python                     26 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 SCSS                       21 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 YAML                       14 hrs 50 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 Java                       13 hrs 2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 Docker                     9 hrs 56 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-HTML                       7 hrs 49 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+HTML                       7 hrs 49 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
