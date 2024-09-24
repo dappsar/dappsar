@@ -79,20 +79,20 @@ In [this linktree](https://linktr.ee/dappsar) you have a summary of links such a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2023 - To: 21 September 2024
+From: 21 January 2023 - To: 22 September 2024
 
-Total Time: 1,492 hrs 11 mins
+Total Time: 1,495 hrs 16 mins
 
-TypeScript                 697 hrs 8 mins  ███████████░░░░░░░░░░░░░░   44.25 %
-Markdown                   219 hrs 10 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
-JavaScript                 176 hrs 10 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
-Other                      83 hrs 25 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-SQL                        77 hrs 39 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-Bash                       73 hrs 17 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
-Text                       55 hrs 47 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-JSON                       41 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+TypeScript                 699 hrs 14 mins ███████████░░░░░░░░░░░░░░   44.29 %
+Markdown                   219 hrs 10 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
+JavaScript                 176 hrs 10 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
+Other                      83 hrs 27 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+SQL                        77 hrs 39 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+Bash                       73 hrs 20 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+Text                       56 hrs 40 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+JSON                       41 hrs 16 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 Solidity                   33 hrs 56 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-Python                     26 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Python                     26 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 SCSS                       21 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 YAML                       18 hrs 48 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 Java                       13 hrs 2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
