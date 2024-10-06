@@ -79,25 +79,23 @@ In [this linktree](https://linktr.ee/dappsar) you have a summary of links such a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2023 - To: 03 October 2024
+From: 21 January 2023 - To: 05 October 2024
 
-Total Time: 1,551 hrs 4 mins
+Total Time: 1,559 hrs 31 mins
 
-TypeScript                 724 hrs 53 mins ███████████░░░░░░░░░░░░░░   44.33 %
-Markdown                   220 hrs 7 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
-JavaScript                 177 hrs 54 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
-Other                      84 hrs 14 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-Text                       77 hrs 53 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-SQL                        77 hrs 39 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-Bash                       75 hrs 5 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-JSON                       42 hrs 45 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Solidity                   34 hrs 11 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Python                     28 hrs 16 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-SCSS                       21 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-YAML                       19 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Java                       13 hrs 2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Docker                     12 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-HTML                       7 hrs 51 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+TypeScript                 728 hrs 21 mins ███████████░░░░░░░░░░░░░░   44.30 %
+Markdown                   220 hrs 8 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
+JavaScript                 178 hrs 7 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
+Other                      84 hrs 31 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+Text                       82 hrs 2 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+SQL                        77 hrs 39 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+Bash                       75 hrs 14 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Solidity                   34 hrs 11 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Python                     28 hrs 16 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+SCSS                       21 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Java                       13 hrs 2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Docker                     12 hrs 30 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+HTML                       8 hrs 2 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
