@@ -79,19 +79,19 @@ In [this linktree](https://linktr.ee/dappsar) you have a summary of links such a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2023 - To: 05 October 2024
+From: 21 January 2023 - To: 06 October 2024
 
-Total Time: 1,559 hrs 31 mins
+Total Time: 1,566 hrs 25 mins
 
-TypeScript                 728 hrs 21 mins ███████████░░░░░░░░░░░░░░   44.30 %
-Markdown                   220 hrs 8 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
-JavaScript                 178 hrs 7 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
-Other                      84 hrs 31 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-Text                       82 hrs 2 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-SQL                        77 hrs 39 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-Bash                       75 hrs 14 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-Solidity                   34 hrs 11 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-Python                     28 hrs 16 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+TypeScript                 730 hrs 59 mins ███████████░░░░░░░░░░░░░░   44.28 %
+Markdown                   220 hrs 8 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
+JavaScript                 178 hrs 9 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+Text                       84 hrs 59 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Other                      84 hrs 34 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+SQL                        77 hrs 39 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+Bash                       76 hrs 21 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+Solidity                   34 hrs 17 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Python                     28 hrs 16 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 SCSS                       21 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 Java                       13 hrs 2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 Docker                     12 hrs 30 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
