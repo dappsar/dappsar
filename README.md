@@ -79,7 +79,7 @@ In [this linktree](https://linktr.ee/dappsar) you have a summary of links such a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2023 - To: 10 October 2024
+From: 21 January 2023 - To: 11 October 2024
 
 Total Time: 1,566 hrs 47 mins
 
