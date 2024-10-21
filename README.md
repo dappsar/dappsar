@@ -79,23 +79,23 @@ In [this linktree](https://linktr.ee/dappsar) you have a summary of links such a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2023 - To: 18 October 2024
+From: 21 January 2023 - To: 20 October 2024
 
-Total Time: 1,571 hrs 47 mins
+Total Time: 1,575 hrs 30 mins
 
-TypeScript                 733 hrs 57 mins ███████████░░░░░░░░░░░░░░   44.31 %
-Markdown                   220 hrs 20 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
-JavaScript                 178 hrs 11 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
-Text                       85 hrs 47 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-Other                      84 hrs 35 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
-SQL                        77 hrs 39 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-Bash                       76 hrs 32 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+TypeScript                 737 hrs 21 mins ███████████░░░░░░░░░░░░░░   44.42 %
+Markdown                   220 hrs 20 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
+JavaScript                 178 hrs 11 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
+Text                       85 hrs 49 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+Other                      84 hrs 35 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+SQL                        77 hrs 39 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Bash                       76 hrs 35 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
 Solidity                   34 hrs 17 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-Python                     28 hrs 16 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Python                     28 hrs 16 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 SCSS                       21 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 Java                       13 hrs 2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 Docker                     12 hrs 38 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-HTML                       8 hrs 2 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+HTML                       8 hrs 2 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
