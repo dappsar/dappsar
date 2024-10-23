@@ -79,14 +79,14 @@ In [this linktree](https://linktr.ee/dappsar) you have a summary of links such a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2023 - To: 21 October 2024
+From: 21 January 2023 - To: 22 October 2024
 
-Total Time: 1,575 hrs 30 mins
+Total Time: 1,575 hrs 35 mins
 
-TypeScript                 737 hrs 21 mins ███████████░░░░░░░░░░░░░░   44.42 %
+TypeScript                 737 hrs 25 mins ███████████░░░░░░░░░░░░░░   44.42 %
 Markdown                   220 hrs 20 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
 JavaScript                 178 hrs 11 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
-Text                       85 hrs 49 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+Text                       85 hrs 50 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
 Other                      84 hrs 35 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
 SQL                        77 hrs 39 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
 Bash                       76 hrs 35 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
