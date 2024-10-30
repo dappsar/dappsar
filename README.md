@@ -79,21 +79,21 @@ In [this linktree](https://linktr.ee/dappsar) you have a summary of links such a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2023 - To: 27 October 2024
+From: 21 January 2023 - To: 28 October 2024
 
-Total Time: 1,586 hrs 32 mins
+Total Time: 1,593 hrs 26 mins
 
-TypeScript                 739 hrs 15 mins ███████████░░░░░░░░░░░░░░   44.23 %
-Markdown                   220 hrs 26 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
-JavaScript                 178 hrs 12 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
-Text                       87 hrs 2 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-Other                      84 hrs 42 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-SQL                        77 hrs 43 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
-Bash                       77 hrs 9 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-Solidity                   34 hrs 17 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-Python                     28 hrs 16 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-SCSS                       21 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-Docker                     13 hrs 25 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+TypeScript                 740 hrs 10 mins ███████████░░░░░░░░░░░░░░   44.10 %
+Markdown                   220 hrs 30 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 %
+JavaScript                 178 hrs 12 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
+Text                       90 hrs 55 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+Other                      84 hrs 59 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+SQL                        77 hrs 43 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+Bash                       77 hrs 29 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+Solidity                   34 hrs 17 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Python                     28 hrs 16 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+SCSS                       21 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Docker                     13 hrs 33 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 Java                       13 hrs 2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 HTML                       8 hrs 2 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
