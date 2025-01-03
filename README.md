@@ -78,21 +78,21 @@ I'm a software architect.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2023 - To: 31 December 2024
+From: 21 January 2023 - To: 01 January 2025
 
-Total Time: 1,693 hrs 20 mins
+Total Time: 1,697 hrs 55 mins
 
-TypeScript                 780 hrs 55 mins ███████████░░░░░░░░░░░░░░   43.81 %
-Markdown                   234 hrs 6 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
-JavaScript                 190 hrs 2 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
-Text                       110 hrs 5 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-Other                      89 hrs 16 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-Bash                       80 hrs 32 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-SQL                        77 hrs 43 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-Solidity                   34 hrs 52 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Python                     32 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+TypeScript                 783 hrs 7 mins  ███████████░░░░░░░░░░░░░░   43.82 %
+Markdown                   234 hrs 7 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
+JavaScript                 190 hrs 2 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
+Text                       111 hrs 44 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+Other                      89 hrs 17 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+Bash                       80 hrs 35 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+SQL                        77 hrs 43 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+Solidity                   35 hrs 10 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Python                     32 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 SCSS                       21 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-Docker                     15 hrs 21 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Docker                     15 hrs 22 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 Java                       13 hrs 2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 HTML                       8 hrs 8 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
