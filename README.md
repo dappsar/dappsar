@@ -78,23 +78,23 @@ I'm a software architect.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2023 - To: 07 January 2025
+From: 21 January 2023 - To: 09 January 2025
 
-Total Time: 1,727 hrs 35 mins
+Total Time: 1,738 hrs 27 mins
 
-TypeScript                 795 hrs 15 mins ███████████░░░░░░░░░░░░░░   43.72 %
-Markdown                   234 hrs 16 mins ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
-JavaScript                 190 hrs 2 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
-Text                       127 hrs 17 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-Other                      91 hrs 29 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-Bash                       81 hrs 19 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-SQL                        77 hrs 43 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-Solidity                   35 hrs 45 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-Python                     32 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+TypeScript                 805 hrs 33 mins ███████████░░░░░░░░░░░░░░   43.93 %
+Markdown                   234 hrs 23 mins ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
+JavaScript                 190 hrs 2 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
+Text                       127 hrs 17 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+Other                      95 hrs 16 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+Bash                       81 hrs 31 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+SQL                        77 hrs 43 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Solidity                   35 hrs 56 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Python                     32 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 SCSS                       21 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Docker                     15 hrs 28 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Java                       13 hrs 2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-HTML                       8 hrs 8 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Docker                     15 hrs 28 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Java                       13 hrs 2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+HTML                       8 hrs 8 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
