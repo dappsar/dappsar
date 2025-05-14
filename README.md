@@ -78,21 +78,21 @@ I'm a software architect.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2023 - To: 11 May 2025
+From: 21 January 2023 - To: 13 May 2025
 
-Total Time: 1,954 hrs 4 mins
+Total Time: 1,958 hrs 14 mins
 
-TypeScript                 920 hrs 4 mins  ██████████▓░░░░░░░░░░░░░░   42.69 %
-Markdown                   296 hrs 58 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
-Other                      201 hrs 9 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
-JavaScript                 193 hrs 57 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
-Text                       128 hrs 20 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-Bash                       94 hrs 29 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-SQL                        77 hrs 43 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-Solidity                   36 hrs 50 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-Python                     33 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-SCSS                       21 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Docker                     15 hrs 51 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+TypeScript                 922 hrs 20 mins ██████████▓░░░░░░░░░░░░░░   42.62 %
+Markdown                   298 hrs 34 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
+Other                      205 hrs 57 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
+JavaScript                 193 hrs 57 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+Text                       128 hrs 20 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+Bash                       94 hrs 36 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+SQL                        77 hrs 43 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+Solidity                   36 hrs 50 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Python                     33 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+SCSS                       21 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Docker                     15 hrs 51 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 Java                       13 hrs 23 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 HTML                       8 hrs 9 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
