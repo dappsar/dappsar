@@ -78,13 +78,13 @@ I'm a software architect.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2023 - To: 12 August 2025
+From: 21 January 2023 - To: 13 August 2025
 
-Total Time: 2,064 hrs 45 mins
+Total Time: 2,065 hrs 19 mins
 
-TypeScript                 958 hrs 24 mins ██████████▒░░░░░░░░░░░░░░   41.55 %
-Markdown                   347 hrs 8 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
-Other                      242 hrs 2 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+TypeScript                 958 hrs 24 mins ██████████▒░░░░░░░░░░░░░░   41.54 %
+Markdown                   347 hrs 41 mins ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
+Other                      242 hrs 4 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
 JavaScript                 195 hrs 8 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
 Text                       129 hrs 21 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
 Bash                       100 hrs 34 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
