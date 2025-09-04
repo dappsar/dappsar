@@ -78,21 +78,21 @@ I'm a software architect.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2023 - To: 01 September 2025
+From: 21 January 2023 - To: 02 September 2025
 
-Total Time: 2,096 hrs 52 mins
+Total Time: 2,097 hrs 33 mins
 
-TypeScript                 970 hrs 18 mins ██████████▒░░░░░░░░░░░░░░   41.38 %
-Markdown                   362 hrs 40 mins ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
-Other                      248 hrs 13 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
+TypeScript                 970 hrs 21 mins ██████████▒░░░░░░░░░░░░░░   41.36 %
+Markdown                   363 hrs 12 mins ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
+Other                      248 hrs 19 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 %
 JavaScript                 195 hrs 8 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
-Text                       129 hrs 35 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-Bash                       102 hrs 12 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+Text                       129 hrs 35 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+Bash                       102 hrs 18 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
 SQL                        77 hrs 43 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 Python                     38 hrs 42 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 Solidity                   36 hrs 52 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 SCSS                       21 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Docker                     16 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Docker                     16 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 Java                       13 hrs 56 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 HTML                       8 hrs 30 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
