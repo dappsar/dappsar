@@ -78,20 +78,20 @@ I'm a software architect.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2023 - To: 20 July 2026
+From: 21 January 2023 - To: 21 July 2026
 
-Total Time: 2,866 hrs 28 mins
+Total Time: 2,876 hrs 20 mins
 
-TypeScript                 1,113 hrs 24 mins     ████████▓░░░░░░░░░░░░░░░░   34.28 %
-Markdown                   723 hrs 13 mins       █████▓░░░░░░░░░░░░░░░░░░░   22.27 %
-Other                      381 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
-JavaScript                 219 hrs 48 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
-Text                       168 hrs 20 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-Bash                       142 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-Python                     110 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-SQL                        78 hrs 21 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+TypeScript                 1,113 hrs 24 mins     ████████▓░░░░░░░░░░░░░░░░   34.18 %
+Markdown                   729 hrs 41 mins       █████▓░░░░░░░░░░░░░░░░░░░   22.40 %
+Other                      381 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
+JavaScript                 221 hrs 1 min         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
+Text                       168 hrs 30 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+Bash                       143 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+Python                     110 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+SQL                        78 hrs 27 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 Solidity                   38 hrs 37 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Docker                     23 hrs 27 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Docker                     23 hrs 30 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 SCSS                       21 hrs 43 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 Java                       13 hrs 57 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 HTML                       12 hrs 19 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
