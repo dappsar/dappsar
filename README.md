@@ -78,23 +78,23 @@ I'm a software architect.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2023 - To: 29 August 2026
+From: 21 January 2023 - To: 31 August 2026
 
-Total Time: 3,068 hrs 12 mins
+Total Time: 3,076 hrs 50 mins
 
-TypeScript                 1,128 hrs 1 min       ████████░░░░░░░░░░░░░░░░░   32.50 %
-Markdown                   837 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   24.12 %
-Other                      402 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
-JavaScript                 228 hrs 52 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-Text                       179 hrs 15 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-Bash                       145 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-Python                     122 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-SQL                        78 hrs 53 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-Solidity                   38 hrs 44 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Docker                     23 hrs 37 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-SCSS                       21 hrs 43 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+TypeScript                 1,130 hrs 37 mins     ████████░░░░░░░░░░░░░░░░░   32.47 %
+Markdown                   839 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   24.11 %
+Other                      405 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+JavaScript                 229 hrs 13 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+Text                       180 hrs 27 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Bash                       145 hrs 55 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Python                     123 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+SQL                        78 hrs 55 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+Solidity                   38 hrs 44 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Docker                     23 hrs 45 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+SCSS                       21 hrs 43 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 Java                       13 hrs 57 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-HTML                       13 hrs 45 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+PowerShell                 13 hrs 50 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
