@@ -78,12 +78,12 @@ I'm a software architect.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2023 - To: 30 September 2026
+From: 21 January 2023 - To: 02 October 2026
 
-Total Time: 3,222 hrs 46 mins
+Total Time: 3,223 hrs 16 mins
 
-TypeScript                 1,149 hrs 41 mins     ████████░░░░░░░░░░░░░░░░░   31.47 %
-Markdown                   903 hrs 11 mins       ██████▒░░░░░░░░░░░░░░░░░░   24.73 %
+TypeScript                 1,149 hrs 51 mins     ████████░░░░░░░░░░░░░░░░░   31.47 %
+Markdown                   903 hrs 11 mins       ██████▒░░░░░░░░░░░░░░░░░░   24.72 %
 Other                      430 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
 JavaScript                 235 hrs 11 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
 Text                       189 hrs 26 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
@@ -94,7 +94,7 @@ Solidity                   38 hrs 44 mins        ▒░░░░░░░░░�
 Docker                     23 hrs 57 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 SCSS                       21 hrs 43 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 Vue                        14 hrs 22 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-PowerShell                 14 hrs 12 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+PowerShell                 14 hrs 21 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
