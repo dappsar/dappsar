@@ -78,7 +78,7 @@ I'm a software architect.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2023 - To: 11 October 2026
+From: 21 January 2023 - To: 12 October 2026
 
 Total Time: 3,250 hrs 4 mins
 
