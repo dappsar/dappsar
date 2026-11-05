@@ -54,9 +54,6 @@ I'm a software architect.
 
 ## Trophies
 
-### Github Contribution
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dappsar)](https://github.com/dappsar/github-profile-trophy)
 
 ### Stackoverflow contribution
 
