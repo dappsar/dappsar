@@ -48,13 +48,7 @@ I'm a software architect.
 
 ## Latest
 
-- Learning about web3 development
-- Working as a Software Architect in differents projects for a global company
-- Developing in nextJs with javascript this site: [argentinadiving.com](https://argentinadiving.com)
-- Architect and developer (react, node, solidity) of GIGA's **gigacounts** project, part of [UNICEF's connect project](https://projectconnect.unicef.org/about). Source code: [Gigacounts-Blockchain](https://github.com/unicef/giga_gigacounts_blockchain), [Gigacounts-frontend](https://github.com/unicef/giga_gigacounts_frontend), [Gigacounts-backend](https://github.com/unicef/giga_gigacounts_backend)
-- Developer in Project [NoF Town](https://nof.town/) (NFT Game)
-
-
+- Founder of ChatterPay, a multi-chain blockchain platform integrating decentralized financial services with WhatsApp and Telegram, now evolving into B2B infrastructure for enterprise integrations. Leading end-to-end product architecture, development, and operations across smart contracts, APIs, SDKs, cloud infrastructure, and DevSecOps, with a focus on non-custodial, partner-managed solutions across EVM, Bitcoin, Cardano, and Stellar. Driving the adoption of Agentic Engineering through Spec-Driven Development (SDD) and a custom-built AI agent harness for controlled, reproducible, and auditable multi-repository development.
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
